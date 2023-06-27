@@ -1,0 +1,56 @@
+  html {
+      font-family: 'Times New Roman';
+      
+    }
+
+
+    body {
+            background-image: url('img/Background.png');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            width: 50%;
+            max-width: 800px;
+            min-width: 480px;
+            margin-left: 5em;
+            margin-top: 4em;
+            font-size: 1.5em;
+            color: white;   
+        }
+
+
+.form input[type="number"] 
+        {
+            width: 100px;
+            height: 1.5em;
+            border-radius: 0.5em;
+            font-weight: bold;
+            font-family: 'Times New Roman';
+        }
+       
+        
+ .lastResult {
+            color: white;
+            border-radius: 0.3em;
+            text-align: center;
+            width: 40%;
+        }
+        
+.guessSubmit , .resetGame{
+    background-color:rgb(143, 136, 234);
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 0.8em;
+    border-radius: 0.5em;
+    font-weight: bold;
+
+
+}
+
+input{
+    text-align: center;
+    font-size: large;
+}
+
+
+    
